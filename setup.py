@@ -15,7 +15,7 @@ setup(
     platforms = "any",
     install_requires = [
         "nonebot2",
-        "nonebot-adapter-onebot"
+        "nonebot-adapter-onebot",
         "sqlalchemy",
         "psycopg2-binary",
         "aiohttp",
