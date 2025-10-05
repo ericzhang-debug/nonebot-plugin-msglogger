@@ -71,7 +71,7 @@ _✨ 一个基于 NoneBot2 的群聊消息记录插件，能够自动保存群�
 
 打开 nonebot2 项目根目录下的 `pyproject.toml` 文件, 在 `[tool.nonebot]` 部分追加写入
 
-    plugins = ["nonebot_plugin_msglogger"]
+    plugins = ["nonebot-plugin-msglogger"]
 
 </details>
 
