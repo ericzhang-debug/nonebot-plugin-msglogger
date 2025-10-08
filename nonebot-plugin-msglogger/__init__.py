@@ -10,6 +10,9 @@ __plugin_meta__ = PluginMetadata(
     description="QQ群聊消息记录器",
     usage="自动记录群聊消息到PostgreSQL数据库",
     config=Config,
+    type="application",
+    homepage="https://github.com/ericzhang-debug/nonebot-plugin-msglogger",
+    supported_adapters=None,
 )
 
 config = get_plugin_config(Config)
